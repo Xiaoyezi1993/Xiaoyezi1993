@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Xiaoyezi1993/Xiaoyezi1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on applied microeconomic research, specialzied in labor economics, health economics, and agricultural economics.
 - 🌱 I’m currently learning machine learning and data mining methods.
 - 👯 I’m looking to collaborate on anything related to my research fields as well as my interests in data science.
